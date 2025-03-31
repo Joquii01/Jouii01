@@ -1,4 +1,4 @@
-# Hello World. I'm Majo Quintero.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=2900&pause=1008&color=#A020F0&width=435&lines=Hello+world!+I'm+Majo+Quintero+What's+up?;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 - 🔭 **Actualmente estoy aprendiendo a programar con Python, con el objetivo de complementar mis conocimientos adquiridos en la universidad y tener más campo de acción para usar mis habilidades.**
 
 - 💬 **Me interesan los temas relacionados con la investigación científica, enfocada en el estudio de instrumentos útiles para la misma.**
