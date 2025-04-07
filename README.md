@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1008&color=14CD43&width=435&lines=Hello+world!;Welcome+to+my+Github;Let`s+learn+together)](https://git.io/typing-svg)
+
 ¡Hello World!, I'm Majo Quintero.
 # 💫About Me :
 ¡Hello World!, I'm Majo Quintero.
@@ -23,4 +25,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Joquii01&icon=3&color=5)](https://visitcount.itsvg.in)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1008&color=14CD43&width=435&lines=Hello+world!;Welcome+to+my+Github;Let`s+learn+together)](https://git.io/typing-svg)
